@@ -1,0 +1,3 @@
+LAB RAT C — TEST 3
+This isolated PR is the one-time event used to test a ChatGPT Work webhook trigger.
+RUN 2 must confirm it was launched separately by the GitHub PR event, then disable the test automation.
